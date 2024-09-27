@@ -1,4 +1,4 @@
-## Olá, eu sou a Luana Forte! 👾🎮
+## Oi, eu sou a Luana! 👾🎮
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-forte-9b0264303)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luanaforte.ink?igsh=MWViNHA2Z2J0YWVyaQ==)
