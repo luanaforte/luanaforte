@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanaforte&layout=donut&show_icon=true&theme=gruvbox)](https://github.com/luanaforte/github-readme-stats)
 
-### Tecnologias que utilizo no meu dia a dia
+### Technologies I use in my daily work
 
 <div style="display: inline_block"><br>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
